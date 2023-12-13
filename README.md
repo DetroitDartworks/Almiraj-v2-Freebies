@@ -16,3 +16,6 @@ Patch Side Plates
 - I recommend cutting out holes in the velcro for the 2 screws they will cover
 
 - Add morale patch(es) for blaster swag
+
+
+All files in this repository are under a CC-BY-NC-ND license and are intended for use by customers who have purchased the Al-Mi'raj v2 fileset.
